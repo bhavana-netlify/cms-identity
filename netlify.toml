@@ -8,8 +8,8 @@
   command = "yarn build-preview"
   
   [[redirects]]
-  from = "/values/"
-  to = "https://enik7akibz28.x.pipedream.net/"
+  from = "https://cms-identity.netlify.com/products/"
+  to = "https://amazon.com
   status = 200
   force = true
   signed = "SECRET"
